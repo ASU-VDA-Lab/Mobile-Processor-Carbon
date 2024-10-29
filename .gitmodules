@@ -1,0 +1,3 @@
+[submodule "ECO-CHIP"]
+	path = ECO-CHIP
+	url = https://github.com/ASU-VDA-Lab/ECO-CHIP.git
