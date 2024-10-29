@@ -1,4 +1,4 @@
-# Mobile Processor Carbon Footprint
+# Mobile Processor Carbon Footprint Trend
 
 ## Beyond the Surface: The Necessity of Detailed Metrics in Corporate Sustainability (IGSC'24)
 
@@ -9,13 +9,14 @@ The smartphone industry’s push for smaller, energy-efficient devices with adva
 ## Table of Contents
 
 -   [Directory structure](#directory-structure)
--   [Main objective](#objectives)
--   [Key parameters](#key-parameters)
+-   [Main objective](#main-objectives)
+-   [Dataset](#dataset)
 -   [Running GreenFPGA](#running-greenfpga)
 -   [Outputs](#outputs)
 
 ## Directory Structure 
 
+- **[ECO-CHIP](./ECO-CHIP/)** [Submodule to original ECO-CHIP]
 - **src/**
   - [ECO_chip.py](./src/ECO_chip.py) [Modified version of original ECO_chip.py to help with Mobile processor metric work] 
 - **data**
@@ -26,9 +27,15 @@ The smartphone industry’s push for smaller, energy-efficient devices with adva
   - [Mobile-Sustainability-LCA.png](./images/Mobile-Sustainability-LCA.png)
   - [Sustainability-MobileProcessor-Trend.jpg](./images/Sustainability-MobileProcessor-Trend.jpg)
 
-
+## Main Objecives
 Two main objectives of this work are : 
-1. 
+### Call to action for industry to include detailed data in sustainaiblity reports 
+ <img src="images/Mobile-Sustainability-LCA.png" alt="drawing" width="600"/> 
+
+### Call to action for the community to incorporate sustainaiblity-oriented metrics for benchmarking chips and architectures
+
+## Dataset 
+We have uploaded the entire Google Pixel series, and iPhone series processor specifications and sustainability related carbon footrpint details of both the processor and the entire phone under **data** 
 
 Google processor data
 Apple processor data
