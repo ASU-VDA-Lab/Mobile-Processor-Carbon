@@ -11,8 +11,6 @@ The smartphone industry’s push for smaller, energy-efficient devices with adva
 -   [Directory structure](#directory-structure)
 -   [Main objective](#main-objectives)
 -   [Dataset](#dataset)
--   [Running GreenFPGA](#running-greenfpga)
--   [Outputs](#outputs)
 
 ## Directory Structure 
 
@@ -34,12 +32,16 @@ Two main objectives of this work are :
 
 ### Call to action for the community to incorporate sustainaiblity-oriented metrics for benchmarking chips and architectures
 
-## Dataset 
-We have uploaded the entire Google Pixel series, and iPhone series processor specifications and sustainability related carbon footrpint details of both the processor and the entire phone under **data** 
 
-Google processor data
-Apple processor data
+## Dataset 
+We have uploaded the entire Google Pixel series, and iPhone series processor specifications and sustainability related carbon footrpint details of both the processor and the entire phone under **data** directory [[1]][Apple-reports] [[2]][Google-reports]
+### Apple Processor Data
+- [Apple-iPhone-Series](./data/Apple-iPhone-Series.xlsx) contains details for iPhone series processors
+### Google Processor Data
+- [Google-Pixel-Series](./data/Google-Pixel-Series.xlsx) contains details for the Google Pixel series processors
+
 
 Add the two tables for that. Add references to Goolge and Apple sustainability reports. Then in the src directly add a top-level script that call ECO-CHIP. 
 
-Add ECO-CHIP as a submodule in this repository.
+[Apple-reports]: <https://www.apple.com/environment/>
+[Google-reports]: <https://sustainability.google/reports/>
