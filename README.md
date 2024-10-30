@@ -26,20 +26,21 @@ The smartphone industry’s push for smaller, energy-efficient devices with adva
   - [Sustainability-MobileProcessor-Trend.jpg](./images/Sustainability-MobileProcessor-Trend.jpg)
 
 ## Main Objectives
-Two main objectives of this work are : 
-### Call to action for industry to include detailed data in sustainability reports 
+Two main objectives of this work are: 
+
+### Objective 1: Call to action for industry to include detailed data in sustainability reports 
  <img src="images/Mobile-Sustainability-LCA.png" alt="drawing" width="600"/> 
 
-### Call to action for the community to incorporate sustainability-oriented metrics for benchmarking chips and architectures
+### Call to action for the community to incorporate sustainability-oriented metrics for benchmarking
 - #### Performance Sustainability Index (Perf-SI)
 The performance sustainability index provides information about how much performance we get for every CO2eq. The key thing to note here is the total CFP considers the contribution of both embodied and operational CPF.
-When comparing devices, just performance alone is not sufficient. We need to consider the device’s area, power, and sustainability impact together with performance. 
+When comparing devices, performance alone is not sufficient. We must consider the device's area, power, sustainability impact, and performance. 
 
 $\Large Perf - SI = \frac{Performance}{Total CO_2 eq.}$
 
 
 - #### Workload-depended carbon footprint
-There has been increased demand for computing in recent years, which makes it important to evaluate workload-dependent CFP. 
+There has been increased demand for computing in recent years, making evaluating workload-dependent CFP important. 
 
 $\Large C_{workload} = T_{workload} \times P \times CI$
 
@@ -50,10 +51,10 @@ $P$ - power of the processor
 $CI$ - Carbon intensity 
 
 - #### Carbon footprint per billion transistor
-CFP per billion transistors is another metric that can be used to see the progress being made from a fab perspective. 
+CFP per billion transistors is another metric that can be used to see progress in semiconductor manufacturing. 
 
 - #### Carbon footprint per GB
-Important for companies to include CFP per GB in their reports. 
+Companies need to include CFP per GB in their reports. 
 
 ## Dataset 
 We have uploaded the entire Google Pixel series, and iPhone series processor specifications and sustainability-related carbon footprint details of both the processor and the entire phone under **data** directory [[1]][Apple-reports] [[2]][Google-reports]
@@ -71,7 +72,7 @@ If you find our work **Mobile-Processor-Carbon** useful or relevant to your rese
 author = {Chetan Choppali Sudarshan, Aman Arora, Vidya A. Chhabria},
 title = {Beyond the Surface: The Necessity of Detailed Metrics in Corporate Sustainability},
 year = {2024},
-booktitle = {Proceedings of the 15th International Green and Sustainable Computing Conference},
+booktitle = {Proc. International Green and Sustainable Computing Conference},
 location = {Austin, US},
 series = {IGSC '24}
 }
