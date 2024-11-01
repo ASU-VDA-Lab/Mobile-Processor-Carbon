@@ -68,13 +68,13 @@ We have uploaded the entire Google Pixel series, and iPhone series processor spe
 If you find our work **Mobile-Processor-Carbon** useful or relevant to your research, please kindly cite our paper:
 
 ```bibtex
-@inproceedings{sudarshan2024igsc,
-author = {Chetan Choppali Sudarshan, Aman Arora, Vidya A. Chhabria},
-title = {Beyond the Surface: The Necessity of Detailed Metrics in Corporate Sustainability},
-year = {2024},
-booktitle = {Proc. International Green and Sustainable Computing Conference},
-location = {Austin, US},
-series = {IGSC '24}
+@inproceedings{sudarshan2024igs,
+  author = {Chetan Choppali Sudarshan, Aman Arora, Vidya A. Chhabria},
+  title = {Beyond the Surface: The Necessity of Detailed Metrics in Corporate Sustainability},
+  booktitle={Proc. of the 15th International Green and Sustainable Computing Conference},
+  year={2024}
+  location = {Austin, US},
+  series = {IGSCC '24}
 }
 
 ```
