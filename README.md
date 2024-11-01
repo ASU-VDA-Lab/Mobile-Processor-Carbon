@@ -1,6 +1,6 @@
 # Mobile Processor Carbon Footprint Trend
 
-## Beyond the Surface: The Necessity of Detailed Metrics in Corporate Sustainability (IGSC'24)
+## Beyond the Surface: The Necessity of Detailed Metrics in Corporate Sustainability (IGSCC'24)
 
 The smartphone industry’s push for smaller, energy-efficient devices with advanced features often overlooks environmental impacts. Corporate sustainability reports provide broad overviews, masking critical details, especially about carbon footprints (CFP) of components like processors. This paper examines the gap between reported CFP trends and the rising CFP contributions of processors, highlighting deficiencies in reporting practices. We propose specific metrics to improve transparency and guide chip design and manufacturing toward sustainable solutions.
 
