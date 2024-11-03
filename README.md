@@ -1,4 +1,4 @@
-# Mobile Processor Carbon Footprint Trend
+# Mobile Processor Carbon Footprint Trend [[Slides](./uploads/IGSC-Chetan-2024.pdf)]
 
 ## Beyond the Surface: The Necessity of Detailed Metrics in Corporate Sustainability (IGSCC'24)
 
